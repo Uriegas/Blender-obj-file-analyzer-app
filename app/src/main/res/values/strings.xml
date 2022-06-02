@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Blender_analyzer</string>
+    <string name="app_name">iti_27849_u1_uriegas_ibarra_jesus_eduardo</string>
+    <string name="load">Load File</string>
+    <string name="error_file_extension">File should end with .obj</string>
+    <string name="error_corrupted_file">The file is corrupted</string>
+    <string name="explanation">Upload a *.obj file and it will be analyzed</string>
 </resources>
